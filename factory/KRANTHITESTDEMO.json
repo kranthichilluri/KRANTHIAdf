@@ -1,0 +1,9 @@
+{
+	"name": "KRANTHITESTDEMO",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "129ab403-fed3-4b6e-b55c-5d6bdb65fca8",
+		"tenantId": "5b210e96-75d2-442d-9323-bce0baf79ca5"
+	}
+}
